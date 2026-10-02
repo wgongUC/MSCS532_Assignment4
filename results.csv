@@ -1,0 +1,61 @@
+Algorithm,Dataset,Input Size,Median Execution Time (ms),Peak Traced Memory (KiB)
+Heap Sort,Random,100,0.072318,0.0859375
+Quick Sort,Random,100,0.029284,0.0859375
+Merge Sort,Random,100,0.063276,0.8671875
+Heap Sort,Sorted,100,0.076595,0.0859375
+Quick Sort,Sorted,100,0.244498,0.0859375
+Merge Sort,Sorted,100,0.056815,0.8671875
+Heap Sort,Reverse Sorted,100,0.065629,0.0859375
+Quick Sort,Reverse Sorted,100,0.160993,0.0859375
+Merge Sort,Reverse Sorted,100,0.055784,0.8671875
+Heap Sort,Repeated Values,100,0.064948,0.0859375
+Quick Sort,Repeated Values,100,0.058308,0.0859375
+Merge Sort,Repeated Values,100,0.062364,0.8671875
+Heap Sort,All Equal,100,0.019229,0.0859375
+Quick Sort,All Equal,100,0.238049,0.0859375
+Merge Sort,All Equal,100,0.056765,0.8671875
+Heap Sort,Random,500,0.549578,0.1953125
+Quick Sort,Random,500,0.270347,0.4765625
+Merge Sort,Random,500,0.525932,4.36328125
+Heap Sort,Sorted,500,0.561096,0.1953125
+Quick Sort,Sorted,500,6.706187,0.1953125
+Merge Sort,Sorted,500,0.43133,4.36328125
+Heap Sort,Reverse Sorted,500,0.512483,0.1953125
+Quick Sort,Reverse Sorted,500,4.8441,0.1796875
+Merge Sort,Reverse Sorted,500,0.432592,4.36328125
+Heap Sort,Repeated Values,500,0.524811,0.1953125
+Quick Sort,Repeated Values,500,0.46479,0.4765625
+Merge Sort,Repeated Values,500,0.45787,4.36328125
+Heap Sort,All Equal,500,0.103266,0.1484375
+Quick Sort,All Equal,500,6.261897,0.1953125
+Merge Sort,All Equal,500,0.420124,4.36328125
+Heap Sort,Random,1000,2.112994,0.22265625
+Quick Sort,Random,1000,0.626324,0.5546875
+Merge Sort,Random,1000,1.136323,8.33203125
+Heap Sort,Sorted,1000,1.305827,0.22265625
+Quick Sort,Sorted,1000,29.72038,0.1953125
+Merge Sort,Sorted,1000,0.994619,8.33203125
+Heap Sort,Reverse Sorted,1000,1.14116,0.1953125
+Quick Sort,Reverse Sorted,1000,22.847912,0.2265625
+Merge Sort,Reverse Sorted,1000,0.971464,8.33203125
+Heap Sort,Repeated Values,1000,1.223875,0.22265625
+Quick Sort,Repeated Values,1000,1.143703,0.5078125
+Merge Sort,Repeated Values,1000,1.113678,8.33203125
+Heap Sort,All Equal,1000,0.215665,0.16015625
+Quick Sort,All Equal,1000,28.345757,0.1953125
+Merge Sort,All Equal,1000,1.006947,8.33203125
+Heap Sort,Random,2000,2.908804,0.22265625
+Quick Sort,Random,2000,1.538128,0.6640625
+Merge Sort,Random,2000,2.571576,16.17578125
+Heap Sort,Sorted,2000,3.056186,0.22265625
+Quick Sort,Sorted,2000,131.304089,0.1953125
+Merge Sort,Sorted,2000,2.274718,16.17578125
+Heap Sort,Reverse Sorted,2000,2.623554,0.1953125
+Quick Sort,Reverse Sorted,2000,86.464644,0.2265625
+Merge Sort,Reverse Sorted,2000,2.246195,16.17578125
+Heap Sort,Repeated Values,2000,2.882694,0.22265625
+Quick Sort,Repeated Values,2000,2.491674,0.5390625
+Merge Sort,Repeated Values,2000,2.480388,16.17578125
+Heap Sort,All Equal,2000,0.454955,0.16015625
+Quick Sort,All Equal,2000,129.433677,0.1953125
+Merge Sort,All Equal,2000,2.247046,16.17578125

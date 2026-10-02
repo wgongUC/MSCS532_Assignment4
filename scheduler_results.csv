@@ -1,0 +1,8 @@
+Task ID,Priority,Arrival Time,Duration,Deadline,Start Time,Finish Time,Waiting Time,Turnaround Time,Tardiness,Missed Deadline
+B,5,0,3,5,0,3,0,3,0,False
+D,5,2,1,4,3,4,1,2,0,False
+C,4,1,2,6,4,6,3,5,0,False
+F,4,6,1,9,6,7,0,1,0,False
+A,3,0,4,8,7,11,7,11,3,True
+E,1,6,2,10,11,13,5,7,3,True
+G,2,16,2,19,16,18,0,2,0,False
